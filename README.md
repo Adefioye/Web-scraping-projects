@@ -1,10 +1,10 @@
 # Web-scraping
 
-The following contain projects performed on web scraping
+The following contain projects performed on web scraping:
 
 1. `business_dataverse` directory contains script that was used to pull data from Harvard dataverse repository -- this is a popular site for getting high-quality articles on a variety of toipcs ranging from politics, government, economics and science. Information pulled from the site are __title and URL of articles__.
 
-This data were pulled to help me easily sort through articles on the specific topics I want from the website. I leveraged the use of scrapy, Xpath and CSS Selectors in this project
+This data were pulled to help me easily sort through articles on the specific topics I want from the website. I leveraged the use of scrapy, Xpath and CSS Selectors in this project.
 
 2. `shoprite_recipe` directory contains script that was used to pull Food recipe data from Nigerian Shoprite. The information gathered from the website are __name, description, ingredients and method of preparation__.
 
